@@ -898,7 +898,7 @@ html {
     background: var(--color-accent-2);
 }
 
-/* publication card styles */
+/* Publication card styles */
 .publication-card {
     display: flex;
     background-color: var(--color-card-bg);

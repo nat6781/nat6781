@@ -33,8 +33,7 @@
   </div>
 </div>
 
-
-
+I recently graduated from the University of Nottingham with a Master’s degree in Cyberphysical Systems (Distinction).
 
 
 

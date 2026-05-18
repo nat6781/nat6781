@@ -1,16 +1,32 @@
-## Hi there 👋
+# Portfolio
 
-<!--
-**nat6781/nat6781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My personal portfolio website showcasing research in AI Safety and Machine Learning.
 
-Here are some ideas to get you started:
+**Live site:** [jrosser.co.uk](https://jrosseruk.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Preview
+
+![Portfolio Screenshot](docs/assets/screenshot.png)
+
+
+## Tech Stack
+
+- Vanilla HTML, CSS, JavaScript
+- Markdown content
+- GitHub Pages hosting
+
+## Development
+
+```bash
+# Serve locally
+python -m http.server 8000 -d docs/
+```
+
+## Structure
+
+- `docs/index.html` - Main page
+- `docs/*.md` - Content (about, publications, resume)
+- `docs/styles.css` - Styling
+- `docs/script.js` - Functionality
+
+Inspired by [astro-theme-cactus](https://astro-cactus.chriswilliams.dev/) :)

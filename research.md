@@ -8,7 +8,7 @@
     </div>
     <div class="research-content">
         <h3 class="research-title">
-            <a href="https://arxiv.org/abs/2602.09987" class="publication-link">
+            <a href="https://arxiv.org/abs/2602.09987" class="research-link">
                 Infusion: Shaping Model Behavior by Editing Training Data via Influence Functions
             </a>
         </h3>
@@ -25,20 +25,20 @@
 
 ## 2025
 
-<div class="publication-card">
-    <div class="publication-image">
+<div class="research-card">
+    <div class="research-image">
         <img src="assets/AgentBreederDiagramJPG.jpg" alt="AgentBreeder publication">
     </div>
-    <div class="publication-content">
-        <h3 class="publication-title">
-            <a href="/AgentBreeder" class="publication-link">
+    <div class="research-content">
+        <h3 class="research-title">
+            <a href="/AgentBreeder" class="research-link">
                 AgentBreeder: Mitigating the AI Safety Impact of Multi-Agent Scaffolds via Self-Improvement
             </a>
         </h3>
-        <div class="publication-venue">NeurIPS 2025 spotlight</div>
-        <div class="publication-authors">J Rosser, Jakob Foerster</div>
-        <div class="publication-year">2025</div>
-        <div class="publication-tags">
+        <div class="research-venue">NeurIPS 2025 spotlight</div>
+        <div class="research-authors">J Rosser, Jakob Foerster</div>
+        <div class="research-year">2025</div>
+        <div class="research-tags">
             <span class="tag tag-safety">Multi-Agent Safety</span>
             <a href="https://arxiv.org/abs/2502.00757" class="tag tag-arxiv">ARXIV</a>
             <a href="https://github.com/J-Rosser-UK/AgentBreeder" class="tag tag-github">GITHUB</a>

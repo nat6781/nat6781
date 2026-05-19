@@ -206,7 +206,7 @@
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="/AgentBreeder" class="publication-link">
-                Autonomous Robotic Systems Finding Objects in a Scene 
+                Building a Low-Polygon Diorama Library in Three.js with a focus on NPC movement and interaction
             </a>
         </h3>
         <div class="publication-venue">BSc Dissertation</div>

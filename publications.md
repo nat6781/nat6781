@@ -13,7 +13,8 @@
             </a>
         </h3>
         <div class="publication-venue">MSc Dissertation</div>
-        <div class="publication-authors"> </div>
+        <div class="publication-authors">University of Nottingham</div>
+        <div class="publication-description"> Adapt a pre-trained natural language model to repair errors in fragmented speech </div>
         <div class="publication-year">SUMMER 2025</div>
         <div class="publication-tags">
             <span class="tag tag-safety">NLP</span>

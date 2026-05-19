@@ -1,6 +1,6 @@
 # Research
 
-## 2026
+## 2025
 
 <div class="publication-card">
     <div class="publication-image">
@@ -9,16 +9,17 @@
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="https://arxiv.org/abs/2602.09987" class="publication-link">
-                Infusion: Shaping Model Behavior by Editing Training Data via Influence Functions
+                Aiding Communication in Aphasia Patients with Aritifical Intelligence
             </a>
         </h3>
-        <div class="publication-venue">Preprint</div>
-        <div class="publication-authors">J Rosser, Robert Kirk, Edward Grefenstette, Jakob Foerster, Laura Ruis</div>
-        <div class="publication-year">2026</div>
+        <div class="publication-venue">MSc Dissertation</div>
+        <div class="publication-authors"> </div>
+        <div class="publication-year">SUMMER 2025</div>
         <div class="publication-tags">
-            <span class="tag tag-safety">AI Security</span>
-            <a href="https://arxiv.org/abs/2602.09987" class="tag tag-arxiv">ARXIV</a>
-            <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a>
+            <span class="tag tag-safety">NLP</span>
+              <span class="tag tag-safety">Python</span>
+            <a href="https://arxiv.org/abs/2602.09987" class="tag tag-arxiv">PDF</a>
+            <!-- <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a> -->
         </div>
     </div>
 </div>

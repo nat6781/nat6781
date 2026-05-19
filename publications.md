@@ -19,7 +19,7 @@
         <div class="publication-tags">
             <span class="tag tag-safety">NLP</span>
               <span class="tag tag-safety">Python</span>
-            <a href="https://arxiv.org/abs/2602.09987" class="tag tag-arxiv">PDF</a>
+            <a href="PDFs/Aiding Communication in Aphasia Patients .pdf" class="tag tag-arxiv">PDF</a>
             <!-- <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a> -->
         </div>
     </div>

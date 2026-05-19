@@ -1047,6 +1047,24 @@ html {
     color: #6b7280;
 }
 
+.tag-pdf {
+    background-color: color-mix(in srgb, #6b7280 15%, transparent);
+    border-color: #10b981;
+    color: #10b981;
+}
+
+.tag-language {
+    background-color: color-mix(in srgb, #6b7280 15%, transparent);
+    border-color: #3b82f6;
+    color: #3b82f6;
+}
+
+.tag-topic {
+    background-color: color-mix(in srgb, #6b7280 15%, transparent);
+    border-color: #6b7280;
+    color: #6b7280;
+}
+
 .tag:hover {
     transform: translateY(-1px);
     box-shadow: 0 2px 4px var(--color-shadow);

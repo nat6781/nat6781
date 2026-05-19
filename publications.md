@@ -8,7 +8,7 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="PDFS/Aiding Communication in Aphasia Patients .pdf" class="publication-link">
+            <a href="PDFs/Aiding Communication in Aphasia Patients .pdf" class="publication-link">
                 Aiding Communication in Aphasia Patients with Aritifical Intelligence
             </a>
         </h3>

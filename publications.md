@@ -106,7 +106,7 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/AgentBreeder" class="publication-link">
+            <a href="" class="">
                 A Mixed Reality Experience - Exploiting the Characteristics of a Location to Increase AR Immersion
             </a>
         </h3>

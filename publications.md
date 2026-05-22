@@ -38,7 +38,8 @@
         </h3>
         <div class="publication-venue">COMP4037 Research Methods</div>
         <div class="publication-authors">University of Nottingham</div>
-          <div class="publication-description"> Literature review exploring the creation of intelligent speech aids used to support the rehabilitation and social reintegration of prople who have experienced aphasia after a stroke event. /div>
+          <div class="publication-description"> Literature review exploring the creation of intelligent speech aids used to support the rehabilitation and social reintegration of prople who have experienced aphasia after a stroke event. 
+     </div>
         <div class="publication-year">SUMMER 2025</div>
        <div class="publication-tags">
             <span class="tag tag-topic">NLP</span>

@@ -201,7 +201,7 @@
            <span class="tag tag-language">Python</span>
            <span class="tag tag-language">ROS</span>
            <span class="tag tag-language">RViz</span>
-            <a href="Robotics_Report.pdf" class="tag tag-pdf">PDF</a>
+            <a href="PDFs/Robotics_Report.pdf" class="tag tag-pdf">PDF</a>
             <!-- <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a> -->
         </div>
     </div>
@@ -216,7 +216,7 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/AgentBreeder" class="publication-link">
+            <a href="" class="publication-link">
                 Building a Low-Polygon Diorama Library in Three.js with a focus on NPC movement and interaction
             </a>
         </h3>
@@ -228,7 +228,7 @@
             <span class="tag tag-topic">Computer Graphics</span>
            <span class="tag tag-topic">HCI</span>
            <span class="tag tag-language">JavaScript</span>
-            <a href="PDFs/Aiding Communication in Aphasia Patients .pdf" class="tag tag-pdf">PDF</a>
+            <a href="" class="tag tag-pdf">PDF</a>
             <!-- <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a> -->
         </div>
     </div>

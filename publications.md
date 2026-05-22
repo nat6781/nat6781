@@ -4,7 +4,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="images/aphasia_image.png.jpg" alt="Infusion publication">
+        <img src="images/aphasia_image.png.jpg" alt="Aphasia Report">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
@@ -28,7 +28,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/AgentBreederDiagramJPG.jpg" alt="AgentBreeder publication">
+        <img src="assets/AgentBreederDiagramJPG.jpg" alt="Aphasia Review">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
@@ -52,7 +52,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="images/validation-system.png" alt="AgentBreeder publication">
+        <img src="images/validation-system.png" alt="Fall-sensor Project">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
@@ -78,7 +78,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/AgentBreederDiagramJPG.jpg" alt="AgentBreeder publication">
+        <img src="assets/AgentBreederDiagramJPG.jpg" alt="UniComp Review">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
@@ -102,7 +102,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/AgentBreederDiagramJPG.jpg" alt="AgentBreeder publication">
+        <img src="assets/AgentBreederDiagramJPG.jpg" alt="MR Project">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
@@ -126,7 +126,8 @@
 </div>
 
 
-<div class="publication-card">
+ <!--
+ <div class="publication-card">
     <div class="publication-image">
         <img src="assets/AgentBreederDiagramJPG.jpg" alt="AgentBreeder publication">
     </div>
@@ -148,11 +149,12 @@
             <!-- <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a> -->
         </div>
     </div>
-</div>
+<!--</div> 
+-->
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="images/smart ocean map.png" alt="AgentBreeder publication">
+        <img src="images/smart ocean map.png" alt="Oceans Project">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
@@ -175,7 +177,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="twoObjects-difcols.png" alt="AgentBreeder publication">
+        <img src="twoObjects-difcols.png" alt="Robotics Project">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
@@ -202,7 +204,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/AgentBreederDiagramJPG.jpg" alt="AgentBreeder publication">
+        <img src="assets/AgentBreederDiagramJPG.jpg" alt="NPC Project">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">

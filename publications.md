@@ -102,7 +102,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/AgentBreederDiagramJPG.jpg" alt="MR Project">
+        <img src="images/projectFlow.png" alt="MR Project">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
@@ -112,7 +112,7 @@
         </h3>
         <div class="publication-venue">COMP4036 Mixed Reality</div>
         <div class="publication-authors">University of Nottingham</div>
-        <div class="publication-description">— video assessment of prototype + ideation — Performance designed to engage users with a particular setting — using “hidden” qr codes to bring a storybook into AR matching location  </div>
+        <div class="publication-description"> A mixed-reality performance designed to engage users within a particular setting. This makes use of the university's 'artcodes', which brings QR code functionality without impacting immersion. This uses Augmented Reality to enhance a non-fiction style storybook by creating a window into the fantasy world the author has created. This project focuses on the challenges present when exploring mixed reality, and the ideation process of a large-scale project. Video presentation and demo of prototype. </div>
         <div class="publication-year">SPRING 2025</div>
        <div class="publication-tags">
             <span class="tag tag-topic">HCI</span>

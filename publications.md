@@ -78,17 +78,17 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/AgentBreederDiagramJPG.jpg" alt="UniComp Review">
+        <img src="images/pexels-white-pc.jpg" alt="UniComp Review">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="/AgentBreeder" class="publication-link">
-                Voice Interfaces within Unicomp Visions as an Accessible Aid
+                The Use of Voice Interfaces as an Accessible Aid within Unicomp Visions
             </a>
         </h3>
         <div class="publication-venue">COMP4104 Designing Sensor-Based Systems</div>
         <div class="publication-authors">University of Nottingham</div>
-        <div class="publication-description"> literature review on recognition technologies  </div>
+        <div class="publication-description"> An abridged literature review on recognition technologies and the presence within founding visions on ubiquitous computing. </div>
         <div class="publication-year">SPRING 2025</div>
        <div class="publication-tags">
             <span class="tag tag-topic">HCI</span>

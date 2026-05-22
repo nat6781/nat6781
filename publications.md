@@ -119,7 +119,7 @@
            <span class="tag tag-topic">Computer Vision</span>
              <span class="tag tag-topic">AR</span>
            <span class="tag tag-language">JavaScript</span>
-            <a href="PDFs/Aiding Communication in Aphasia Patients .pdf" class="tag tag-pdf">PDF</a>
+           <!-- <a href="PDFs/Aiding Communication in Aphasia Patients .pdf" class="tag tag-pdf">PDF</a> -->
             <!-- <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a> -->
         </div>
     </div>

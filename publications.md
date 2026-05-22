@@ -69,11 +69,12 @@
            <span class="tag tag-topic">Sensors</span>
            <span class="tag tag-language"> Python</span>
            <span class="tag tag-language"> Rasberry Pi</span>
-            <a href="PDFs/Aiding Communication in Aphasia Patients .pdf" class="tag tag-pdf">PDF</a>
+            <a href="PDFs/Designing_Sensor_Based_Systems.pdf" class="tag tag-pdf">PDF</a>
             <!-- <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a> -->
         </div>
     </div>
 </div>
+
 
 
 <div class="publication-card">
@@ -82,7 +83,7 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/AgentBreeder" class="publication-link">
+            <a href="PDFs/LitReview_Sensor_Based_Systems.pdf" class="publication-link">
                 The Use of Voice Interfaces as an Accessible Aid within Unicomp Visions
             </a>
         </h3>
@@ -93,11 +94,13 @@
        <div class="publication-tags">
             <span class="tag tag-topic">HCI</span>
            <span class="tag tag-topic">Sensors</span>
-            <a href="PDFs/Aiding Communication in Aphasia Patients .pdf" class="tag tag-pdf">PDF</a>
+            <a href="PDFs/LitReview_Sensor_Based_Systems.pdf" class="tag tag-pdf">PDF</a>
             <!-- <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a> -->
         </div>
     </div>
 </div>
+
+
 
 
 <div class="publication-card">
@@ -169,7 +172,7 @@
        <div class="publication-tags">
             <span class="tag tag-topic">ONE Simulator</span>
            <span class="tag tag-language">Java</span>
-            <a href="PDFs/Aiding Communication in Aphasia Patients .pdf" class="tag tag-pdf">PDF</a>
+            <a href="PDFs/Networks_Project.pdf" class="tag tag-pdf">PDF</a>
             <!-- <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a> -->
         </div>
     </div>
@@ -187,7 +190,8 @@
         </h3>
         <div class="publication-venue">COMP4034 Autonomous Robotic Systems</div>
         <div class="publication-authors">University of Nottingham</div>
-        <div class="publication-description"> Navigate a turtlebot within a real and simulated Gazebo environment to detect and visit colour objects using image processing — simultaneous localisation and mapping </div>
+        <div class="publication-description"> Navigating a turtlebot within both a real and simulated Gazebo environment to detect and visit coloured objects using image processing and localisation techniques.   
+        </div>
         <div class="publication-year">AUTUMN 2024 </div>
        <div class="publication-tags">
             <span class="tag tag-topic">Robotics</span>
@@ -195,12 +199,15 @@
              <span class="tag tag-topic">Sensors</span>
            <span class="tag tag-language">Python</span>
            <span class="tag tag-language">ROS</span>
-            <a href="PDFs/Aiding Communication in Aphasia Patients .pdf" class="tag tag-pdf">PDF</a>
+           <span class="tag tag-language">RViz</span>
+            <a href="Robotics_Report.pdf" class="tag tag-pdf">PDF</a>
             <!-- <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a> -->
         </div>
     </div>
 </div>
 
+
+## 2024
 
 <div class="publication-card">
     <div class="publication-image">

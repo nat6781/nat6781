@@ -28,7 +28,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/AgentBreederDiagramJPG.jpg" alt="Aphasia Review">
+        <img src="images/lit-review.png" alt="Aphasia Review">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">

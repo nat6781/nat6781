@@ -56,7 +56,7 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/AgentBreeder" class="publication-link">
+            <a href="PDFs/Designing_Sensor_Based_Systems.pdf" class="publication-link">
                 Passive Monitoring of Fall-Events using Vibrations
             </a>
         </h3>
@@ -156,7 +156,7 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/AgentBreeder" class="publication-link">
+            <a href="PDFs/Networks_Project.pdf" class="publication-link">
                 Investigating Protocol Performance within Smart Oceans and their Created Mobile Networks
             </a>
         </h3>
@@ -179,7 +179,7 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/AgentBreeder" class="publication-link">
+            <a href="PDFs/Robotics_Report.pdf" class="publication-link">
                 Autonomous Robotic Systems Finding Objects in a Scene 
             </a>
         </h3>

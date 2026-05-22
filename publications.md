@@ -4,7 +4,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="images/aphasia_image.png.jpg" alt="Aphasia Report">
+        <img src="images/aphasia_image.png" alt="Aphasia Report">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">

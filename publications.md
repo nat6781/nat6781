@@ -177,7 +177,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="twoObjects-difcols.png" alt="Robotics Project">
+        <img src="images/twoObjects-difcols.png" alt="Robotics Project">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">

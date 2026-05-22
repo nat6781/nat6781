@@ -32,18 +32,18 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/AgentBreeder" class="publication-link">
+            <a href="PDFs/Research_Methods_CW3.pdf" class="publication-link">
                 Abridged Review of Multimodal Artificial Intelligence within the Understanding of Aphasia Speech
             </a>
         </h3>
         <div class="publication-venue">COMP4037 Research Methods</div>
         <div class="publication-authors">University of Nottingham</div>
-          <div class="publication-description"> Literature Review</div>
+          <div class="publication-description"> Literature review exploring the creation of intelligent speech aids used to support the rehabilitation and social reintegration of prople who have experienced aphasia after a stroke event. /div>
         <div class="publication-year">SUMMER 2025</div>
        <div class="publication-tags">
             <span class="tag tag-topic">NLP</span>
            <span class="tag tag-topic">Sensors</span>
-            <a href="PDFs/Aiding Communication in Aphasia Patients .pdf" class="tag tag-pdf">PDF</a>
+            <a href="PDFs/Research_Methods_CW3.pdf" class="tag tag-pdf">PDF</a>
             <!-- <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a> -->
         </div>
     </div>

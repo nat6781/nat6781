@@ -26,6 +26,8 @@
 </div>
 
 
+
+
 <div class="publication-card">
     <div class="publication-image">
         <img src="images/lit-review.png" alt="Aphasia Review">
@@ -63,7 +65,7 @@
         </h3>
         <div class="publication-venue">COMP4104 Designing Sensor-Based Systems</div>
         <div class="publication-authors">University of Nottingham</div>
-        <div class="publication-description"> pure ubiquitous/invisible computing - reduce intrusion of computers — prototype of floor-mounted sensing system to alert in the event of a person’s fall </div>
+        <div class="publication-description"> A prototype of a floor-mounted sensing system to alert in the event of a fall or large collision. This uses ubiqitous computing methods to reduce intrusion and collection of unecessary data. </div>
         <div class="publication-year">SPRING 2025</div>
        <div class="publication-tags">
             <span class="tag tag-topic">HCI</span>

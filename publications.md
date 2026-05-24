@@ -170,7 +170,8 @@
         </h3>
         <div class="publication-venue">COMP4032 Advanced Computer Networks</div>
         <div class="publication-authors">University of Nottingham</div>
-        <div class="publication-description"> using mobile ad hoc DTN simulation to compare performance of spray_wait + simbet routing within an underwater scenario - DTN network to share tracking data amongst marine life to receive information from animals that do not travel within transmission range of satellites - node movement inspired by data traces </div>
+        <div class="publication-description"> This project evaluates the performance and scalability of single-copy routing protocols against a flooding-based approach in an opportunistic network. This is set within a simulated 'smart ocean' driven by marine wildlife tracking, tagged animals act as sensor nodes to relay data from those that do not travel within satellite range. As this acts as a Delay-Tolerant Network, efficient delivery is critical to overcome the high resource costs of underwater communications.
+            </div>
         <div class="publication-year">AUTUMN 2024</div>
        <div class="publication-tags">
             <span class="tag tag-topic">ONE Simulator</span>
@@ -180,6 +181,12 @@
         </div>
     </div>
 </div>
+
+
+
+
+
+
 
 <div class="publication-card">
     <div class="publication-image">

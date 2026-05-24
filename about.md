@@ -33,8 +33,7 @@
   </div>
 </div>
 
-I graduated from the **University of Nottingham** in December 2025, achieving a Master’s degree in Cyberphysical Systems with Distinction. 
-After completing my bachelor’s in Computer Science at the **University of Warwick**, I decided to specialise my master’s degree to be more research focused and found a new interest in sociology and interaction design.
+I graduated from the **University of Nottingham** in December 2025, achieving a Master’s degree in Cyber-physical Systems with Distinction. After completing my bachelor’s in Computer Science at the **University of Warwick**, I decided to specialise my master’s degree to be more research focused and found a new interest in sociology and interaction design and how this impacts sensing systems.
 
 
  <!--

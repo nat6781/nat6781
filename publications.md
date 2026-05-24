@@ -200,7 +200,7 @@
         </h3>
         <div class="publication-venue">COMP4034 Autonomous Robotic Systems</div>
         <div class="publication-authors">University of Nottingham</div>
-        <div class="publication-description"> Navigating a turtlebot within both a real and simulated Gazebo environment to detect and visit coloured objects using image processing and localisation techniques.   
+        <div class="publication-description"> The navigation a turtlebot through both real and simulated Gazebo environments, aiming to detect and visit coloured objects using image processing and localisation techniques.   
         </div>
         <div class="publication-year">AUTUMN 2024 </div>
        <div class="publication-tags">

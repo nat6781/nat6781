@@ -14,7 +14,8 @@
         </h3>
         <div class="publication-venue">MSc Dissertation</div>
         <div class="publication-authors">University of Nottingham</div>
-        <div class="publication-description"> Adapt a pre-trained natural language model to repair errors in fragmented speech </div>
+        <div class="publication-description"> The pre-trained language model BERT uses surrounding sentence context to predict masked words. This study explores the adaption of BERT to analyse fragmented speech produced by people with aphaisa or similar language disorders, aiming to automate the repair of word-finding and production errors. Focus is placed on determining the contextual domain necessary to fine-tune an accurate model on these unique speech patterns, as well as the optimal size of the neighbouring context window. To validate predictions against human interpretation, the AphasiaBank database provides annotated transcriptions with suggested ground-truth values.
+        </div>
         <div class="publication-year">SUMMER 2025</div>
         <div class="publication-tags">
             <span class="tag tag-topic">NLP</span>
@@ -24,7 +25,6 @@
         </div>
     </div>
 </div>
-
 
 
 

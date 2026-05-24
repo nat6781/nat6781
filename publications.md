@@ -92,7 +92,7 @@
         </h3>
         <div class="publication-venue">COMP4104 Designing Sensor-Based Systems</div>
         <div class="publication-authors">University of Nottingham</div>
-        <div class="publication-description"> An abridged literature review on recognition technologies and the presence within founding visions on ubiquitous computing. </div>
+        <div class="publication-description"> A breif literature review on recognition technologies and the presence within founding visions on ubiquitous computing. </div>
         <div class="publication-year">SPRING 2025</div>
        <div class="publication-tags">
             <span class="tag tag-topic">HCI</span>

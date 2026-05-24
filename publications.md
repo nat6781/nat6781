@@ -222,7 +222,8 @@
         </h3>
         <div class="publication-venue">BSc Dissertation</div>
         <div class="publication-authors">University of Warwick</div>
-        <div class="publication-description"> three.js extension library for NPCs - focus on random movement of characters across a customisable world </div>
+        <div class="publication-description"> An extension for the three.js library introducing pre-built NPCs. These animated characters have random movement with collision avoidance, and can be placed inside a customisable modular-world. This creates a fully working, easy-to-use prototype of a 3D scene editor. 
+        </div>
         <div class="publication-year">SUMMER 2024 </div>
        <div class="publication-tags">
             <span class="tag tag-topic">Computer Graphics</span>

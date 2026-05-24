@@ -222,7 +222,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/AgentBreederDiagramJPG.jpg" alt="NPC Project">
+        <img src="images/threejsModel.jpeg" alt="NPC Project">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">

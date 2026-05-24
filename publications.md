@@ -158,6 +158,8 @@
 <!--</div> 
 -->
 
+## 2024
+
 <div class="publication-card">
     <div class="publication-image">
         <img src="images/smart ocean map.png" alt="Oceans Project">
@@ -217,7 +219,6 @@
 </div>
 
 
-## 2024
 
 <div class="publication-card">
     <div class="publication-image">

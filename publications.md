@@ -9,7 +9,7 @@
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="PDFs/Aiding Communication in Aphasia Patients .pdf" class="publication-link">
-                Aiding Communication in Aphasia Patients with Aritifical Intelligence
+                Aiding Communication in Aphasia Patients with Artificial Intelligence
             </a>
         </h3>
         <div class="publication-venue">MSc Dissertation</div>

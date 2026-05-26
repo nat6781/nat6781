@@ -226,7 +226,7 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="" class="publication-link">
+            <a href="PDFs/Building_Lowpoly_Dioramas.pdf" class="publication-link">
                 Building a Low-Polygon Diorama Library in Three.js with a Focus on NPC Movement and Interaction
             </a>
         </h3>
@@ -239,7 +239,7 @@
             <span class="tag tag-topic">Computer Graphics</span>
            <span class="tag tag-topic">HCI</span>
            <span class="tag tag-language">JavaScript</span>
-            <a href="" class="tag tag-pdf">PDF</a>
+            <a href="PDFs/Building_Lowpoly_Dioramas.pdf" class="tag tag-pdf">PDF</a>
             <!-- <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a> -->
         </div>
     </div>

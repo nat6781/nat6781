@@ -8,7 +8,7 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="PDFs/Aiding Communication in Aphasia Patients .pdf" class="publication-link">
+            <a href="PDFs/Aphasia-Project-Revised-with-cover.pdf" class="publication-link">
                 Aiding the Communication of Aphasia Patients using Artificial Intelligence
             </a>
         </h3>
@@ -20,7 +20,7 @@
         <div class="publication-tags">
             <span class="tag tag-topic">NLP</span>
               <span class="tag tag-language">Python</span>
-            <a href="PDFs/Aiding Communication in Aphasia Patients .pdf" class="tag tag-pdf">PDF</a>
+            <a href="PDFs/Aphasia-Project-Revised-with-cover.pdf" class="tag tag-pdf">PDF</a>
             <!-- <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a> -->
         </div>
     </div>

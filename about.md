@@ -33,7 +33,7 @@
   </div>
 </div>
 
-I'm a recent graduate from the **University of Nottingham** with an MSc in Cyber-Physical Systems, awarded with Distinction. This followed my undergraduate degree in Computer Science at the **University of Warwick** after I chose to specialise and gain deeper experience in academic research. Here I developed an interest in Artifical Intelligence, sociology, and interaction design. I am particularly in how human behaviour shapes the development of sensing systems.
+I'm a recent graduate from the **University of Nottingham** with an MSc in Cyber-Physical Systems, awarded with Distinction. This followed my undergraduate degree in Computer Science, at the **University of Warwick**, to gain deeper experience in academic research. Here I developed an interest in AI, sociology, and interaction design. I am particularly intersted in the use of technology as an accessible aid and how human behaviour shapes the development of sensing systems.
 
 
  <!--
